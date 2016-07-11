@@ -1,7 +1,7 @@
 # Various matrix sketching algorithms.
 
 ## Installation
-> Pkg.clone("git://example.com/path/to/Package.jl.git")
+> Pkg.clone("git@github.com:daniel-perry/Sketch.jl.git")
 
 ## License
 See License.txt for details.
